@@ -28,4 +28,4 @@ consequences thereof.
 John Deeks and Charlotte Garcia at the MRC Cognition & Brain Sciences Unit, University of Cambridge, United Kingdom
 
 # License
-CC-BY
+CC-BY-NIC-SA
