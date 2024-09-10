@@ -2,7 +2,7 @@
 Data Collection Files for the Panoramic ECAP Method for both Cochlear and Advanced Bionics Devices
 
 This repository is associated with a manuscript submitted for publication to Ear and Hearing in May of 2024.
-It is additionally associated with the preprint of the article submitted for publication that can be found here:
+It is additionally associated with the preprint of the article submitted for publication.
 If using these files to collect PECAP Data, please reference the following article:
 Garcia, C., & Carlyon, R. P. (2024, May 13). Assessing Array-Type Differences in Cochlear Implant Users Using the Panoramic ECAP Method. https://doi.org/10.31219/osf.io/wnf6d
 
