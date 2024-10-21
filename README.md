@@ -26,7 +26,7 @@ Unievrsity nor its employees or agents may be held responsible for errors, omiss
 consequences thereof.
 
 # Developed by
-John Deeks and Charlotte Garcia at the MRC Cognition & Brain Sciences Unit, University of Cambridge, United Kingdom
+Charlotte Garcia in collaboration with John Deeks and François Guérit at the MRC Cognition & Brain Sciences Unit, University of Cambridge, United Kingdom
 
 # License
 CC-BY-NIC-SA
